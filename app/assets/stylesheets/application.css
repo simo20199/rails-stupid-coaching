@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+.color-red {
+
+color: red;
+}
+
+div{
+    background-color: aliceblue;
+    width: 499px;
+    padding: 20px;
+}
